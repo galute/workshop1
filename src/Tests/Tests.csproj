@@ -57,10 +57,6 @@
     <Compile Include="Extensions\UtilityExtensionsTest.cs" />
     <Compile Include="JsonTests\Camelcase_serialisation.cs" />
     <Compile Include="JsonTests\ObjectUnderTest.cs" />
-    <Compile Include="Time\Clock\one_set_for_two_tasks.cs" />
-    <Compile Include="Time\Clock\one_set_for_two_threads.cs" />
-    <Compile Include="Time\Clock\one_thread_sets_other_doesnot.cs" />
-    <Compile Include="Time\Clock\two_sets_for_two_tasks.cs" />
     <Compile Include="XmlTests\DummyEntity.cs" />
     <Compile Include="XmlTests\XmlTests.cs" />
     <Compile Include="FileManagementTests\FileManagerTests.cs" />

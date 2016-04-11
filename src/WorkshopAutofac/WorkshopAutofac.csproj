@@ -7,8 +7,8 @@
     <ProjectGuid>{6BD2E43C-DC89-4A83-9367-ED89F331E023}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CTM.BuildingBlocks.Autofac</RootNamespace>
-    <AssemblyName>CTM.BuildingBlocks.Autofac</AssemblyName>
+    <RootNamespace>CTM.Workshop.Autofac</RootNamespace>
+    <AssemblyName>CTM.Workshop.Autofac</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <RestorePackages>true</RestorePackages>

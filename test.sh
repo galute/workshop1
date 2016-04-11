@@ -43,9 +43,9 @@ echo ===========================================================
 echo running TESTS
 echo ===========================================================
 
-docker build -t bbtests .
+docker build -t workshoptests .
 
-export TESTS_IMAGE=`docker images |grep bbtests | cut -f1 -d" "`
+export TESTS_IMAGE=`docker images |grep workshoptests | cut -f1 -d" "`
 
 echo ===========================================================
 echo running Tests

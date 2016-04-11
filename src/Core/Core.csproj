@@ -6,8 +6,8 @@
     <ProjectGuid>{1E967CE8-E41A-4D68-B963-E593FA23853A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CTM.BuildingBlocks</RootNamespace>
-    <AssemblyName>CTM.BuildingBlocks</AssemblyName>
+    <RootNamespace>CTM.Workshop</RootNamespace>
+    <AssemblyName>CTM.Workshop</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <RestorePackages>true</RestorePackages>

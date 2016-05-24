@@ -1,0 +1,6 @@
+packages/*
+**/obj/Release/**
+**/obj/Debug/**
+**/bin/Release/**
+**/bin/Debug/**
+build/bin
